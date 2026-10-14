@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "参考文献格式检查器"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "检查参考文献字段完整性与重复项"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "参考文献检查器"
+    }
+  ]
+}
